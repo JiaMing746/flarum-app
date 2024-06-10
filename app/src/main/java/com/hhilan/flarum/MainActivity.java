@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     String ShowOrHideWebViewInitialUse = "show";
     private WebView webview ;
     private ProgressBar spinner;
-    String myurl = "https://www.hhilan.com"; //Change this to your own url !!
+    String myurl = "http://rootes.oocc.cn/"; //Change this to your own url !!
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
