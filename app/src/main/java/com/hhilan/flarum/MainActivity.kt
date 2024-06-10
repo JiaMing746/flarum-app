@@ -1,4 +1,4 @@
-package com.hhilan.openapp
+package com.hhilan.flarum
 
 import android.os.Bundle
 import android.widget.Button
