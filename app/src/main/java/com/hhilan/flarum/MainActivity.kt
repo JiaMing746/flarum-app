@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         )
 
         val request = Request.Builder()
-            .url("https://your-flarum-site/api/token")
+            .url("http://rootes.oocc.cn/api/token")
             .post(body)
             .addHeader("Content-Type", "application/json")
             .build()
